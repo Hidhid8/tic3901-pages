@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tic3901-test-pages/static/css/main.171ad0b7.css",
-    "main.js": "/tic3901-test-pages/static/js/main.740106a9.js",
-    "static/media/Logo.png": "/tic3901-test-pages/static/media/Logo.912226bd33b9f76e1b09.png",
-    "static/media/img-2.jpg": "/tic3901-test-pages/static/media/img-2.63989320077e6a612301.jpg",
-    "static/media/img-3.jpg": "/tic3901-test-pages/static/media/img-3.56a234d261cd6d954fdb.jpg",
-    "static/media/kathakali-home.jpg": "/tic3901-test-pages/static/media/kathakali-home.ff4f9edf1e152b21bd79.jpg",
-    "static/media/upload-file.png": "/tic3901-test-pages/static/media/upload-file.a26a4340c16de6917375.png",
-    "static/media/img-4.jpg": "/tic3901-test-pages/static/media/img-4.f0208efff21883fe728c.jpg",
-    "static/media/who.jpg": "/tic3901-test-pages/static/media/who.6dd6c77ba9f8dabb515f.jpg",
-    "static/media/image1.jpg": "/tic3901-test-pages/static/media/image1.e2b18bfc49cd9e002d9c.jpg",
-    "static/media/img-1.jpg": "/tic3901-test-pages/static/media/img-1.3e98277b36d4d2b330c8.jpg",
-    "static/media/image3.jpg": "/tic3901-test-pages/static/media/image3.cbb3f86fd6432ac7e18c.jpg",
-    "static/media/image2.jpg": "/tic3901-test-pages/static/media/image2.cffdb942d3f16399c0a1.jpg",
-    "static/media/image4.jpg": "/tic3901-test-pages/static/media/image4.5f8a4104ee0ddf76bcd8.jpg",
-    "index.html": "/tic3901-test-pages/index.html",
-    "main.171ad0b7.css.map": "/tic3901-test-pages/static/css/main.171ad0b7.css.map",
-    "main.740106a9.js.map": "/tic3901-test-pages/static/js/main.740106a9.js.map"
+    "main.css": "/tic3901-pages/static/css/main.171ad0b7.css",
+    "main.js": "/tic3901-pages/static/js/main.5181db90.js",
+    "static/media/Logo.png": "/tic3901-pages/static/media/Logo.912226bd33b9f76e1b09.png",
+    "static/media/img-2.jpg": "/tic3901-pages/static/media/img-2.63989320077e6a612301.jpg",
+    "static/media/img-3.jpg": "/tic3901-pages/static/media/img-3.56a234d261cd6d954fdb.jpg",
+    "static/media/kathakali-home.jpg": "/tic3901-pages/static/media/kathakali-home.ff4f9edf1e152b21bd79.jpg",
+    "static/media/upload-file.png": "/tic3901-pages/static/media/upload-file.a26a4340c16de6917375.png",
+    "static/media/img-4.jpg": "/tic3901-pages/static/media/img-4.f0208efff21883fe728c.jpg",
+    "static/media/who.jpg": "/tic3901-pages/static/media/who.6dd6c77ba9f8dabb515f.jpg",
+    "static/media/image1.jpg": "/tic3901-pages/static/media/image1.e2b18bfc49cd9e002d9c.jpg",
+    "static/media/img-1.jpg": "/tic3901-pages/static/media/img-1.3e98277b36d4d2b330c8.jpg",
+    "static/media/image3.jpg": "/tic3901-pages/static/media/image3.cbb3f86fd6432ac7e18c.jpg",
+    "static/media/image2.jpg": "/tic3901-pages/static/media/image2.cffdb942d3f16399c0a1.jpg",
+    "static/media/image4.jpg": "/tic3901-pages/static/media/image4.5f8a4104ee0ddf76bcd8.jpg",
+    "index.html": "/tic3901-pages/index.html",
+    "main.171ad0b7.css.map": "/tic3901-pages/static/css/main.171ad0b7.css.map",
+    "main.5181db90.js.map": "/tic3901-pages/static/js/main.5181db90.js.map"
   },
   "entrypoints": [
     "static/css/main.171ad0b7.css",
-    "static/js/main.740106a9.js"
+    "static/js/main.5181db90.js"
   ]
 }
